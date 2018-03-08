@@ -1,4 +1,7 @@
 # Serverless Kanban Board for GitHub Issues
+
+Forked from [philschatz](https://github.com/philschatz/gh-board)
+
 [![issues][gh-board-image]][gh-board-url]
 [![dependency status][dependency-image]][dependency-url]
 [![dev dependency status][dev-dependency-image]][dev-dependency-url]
